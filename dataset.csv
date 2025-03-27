@@ -8,4 +8,4 @@ surah_num,ayah_num,audio_url,reciter,is_labeled,is_correct,score,notes,duration_
 1,7,http://everyayah.com/data/Alafasy_64kbps/001007.mp3,Alafasy,True,True,94,"Minor mic noise",5.11
 2,1,http://everyayah.com/data/Alafasy_64kbps/002001.mp3,Alafasy,True,True,97,"Clear pronunciation",5.32
 2,2,http://everyayah.com/data/Alafasy_64kbps/002002.mp3,Alafasy,True,True,96,"Steady rhythm",8.45
-2,3,http://everyayah.com/data/Alafasy_64kbps/002003.mp3,Alafasy,True,True,98,"Perfect makharij",7.21
+2,3,http://everyayah.com/data/Alafasy_64kbps/002003.mp3,Alafasy,True,True,98,"Perfect makharij",7.21s
