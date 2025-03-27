@@ -1,0 +1,11 @@
+surah_num,ayah_num,audio_url,reciter,is_labeled,is_correct,score,notes,duration_sec
+1,1,http://everyayah.com/data/Alafasy_64kbps/001001.mp3,Alafasy,True,True,100,"Perfect recitation",4.21
+1,2,http://everyayah.com/data/Alafasy_64kbps/001002.mp3,Alafasy,True,True,98,"Clear audio",3.85
+1,3,http://everyayah.com/data/Alafasy_64kbps/001003.mp3,Alafasy,True,True,97,"Slight breath",2.92
+1,4,http://everyayah.com/data/Alafasy_64kbps/001004.mp3,Alafasy,True,True,96,"Good pace",3.14
+1,5,http://everyayah.com/data/Alafasy_64kbps/001005.mp3,Alafasy,True,True,95,"Normal echo",3.45
+1,6,http://everyayah.com/data/Alafasy_64kbps/001006.mp3,Alafasy,True,True,99,"Excellent tajweed",4.02
+1,7,http://everyayah.com/data/Alafasy_64kbps/001007.mp3,Alafasy,True,True,94,"Minor mic noise",5.11
+2,1,http://everyayah.com/data/Alafasy_64kbps/002001.mp3,Alafasy,True,True,97,"Clear pronunciation",5.32
+2,2,http://everyayah.com/data/Alafasy_64kbps/002002.mp3,Alafasy,True,True,96,"Steady rhythm",8.45
+2,3,http://everyayah.com/data/Alafasy_64kbps/002003.mp3,Alafasy,True,True,98,"Perfect makharij",7.21
