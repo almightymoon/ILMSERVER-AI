@@ -1,11 +1,11 @@
-surah_num,ayah_num,audio_url,reciter,is_labeled,is_correct,score,notes,duration_sec
-1,1,http://everyayah.com/data/Alafasy_64kbps/001001.mp3,Alafasy,True,True,100,"Perfect recitation",4.21
-1,2,http://everyayah.com/data/Alafasy_64kbps/001002.mp3,Alafasy,True,True,98,"Clear audio",3.85
-1,3,http://everyayah.com/data/Alafasy_64kbps/001003.mp3,Alafasy,True,True,97,"Slight breath",2.92
-1,4,http://everyayah.com/data/Alafasy_64kbps/001004.mp3,Alafasy,True,True,96,"Good pace",3.14
-1,5,http://everyayah.com/data/Alafasy_64kbps/001005.mp3,Alafasy,True,True,95,"Normal echo",3.45
-1,6,http://everyayah.com/data/Alafasy_64kbps/001006.mp3,Alafasy,True,True,99,"Excellent tajweed",4.02
-1,7,http://everyayah.com/data/Alafasy_64kbps/001007.mp3,Alafasy,True,True,94,"Minor mic noise",5.11
-2,1,http://everyayah.com/data/Alafasy_64kbps/002001.mp3,Alafasy,True,True,97,"Clear pronunciation",5.32
-2,2,http://everyayah.com/data/Alafasy_64kbps/002002.mp3,Alafasy,True,True,96,"Steady rhythm",8.45
-2,3,http://everyayah.com/data/Alafasy_64kbps/002003.mp3,Alafasy,True,True,98,"Perfect makharij",7.21
+surah_num,ayah_num,audio_url,reciter,duration_sec,format,bitrate,is_labeled,is_correct,score,notes,other_col1,other_col2
+1,1,http://everyayah.com/data/Alafasy_64kbps/001001.mp3,Mishary Alafasy,4.21,mp3,64,True,True,100,"Perfect tajweed",value1,value2
+1,2,http://everyayah.com/data/Alafasy_64kbps/001002.mp3,Mishary Alafasy,3.85,mp3,64,True,True,98,"Clear audio",value1,value2
+1,3,http://everyayah.com/data/Alafasy_64kbps/001003.mp3,Mishary Alafasy,2.92,mp3,64,True,True,97,"Slight breath",value1,value2
+1,4,http://everyayah.com/data/Alafasy_64kbps/001004.mp3,Mishary Alafasy,3.14,mp3,64,True,True,96,"Good pace",value1,value2
+1,5,http://everyayah.com/data/Alafasy_64kbps/001005.mp3,Mishary Alafasy,3.45,mp3,64,True,True,95,"Normal echo",value1,value2
+1,6,http://everyayah.com/data/Alafasy_64kbps/001006.mp3,Mishary Alafasy,4.02,mp3,64,True,True,99,"Excellent tajweed",value1,value2
+1,7,http://everyayah.com/data/Alafasy_64kbps/001007.mp3,Mishary Alafasy,5.11,mp3,64,True,True,94,"Minor mic noise",value1,value2
+2,1,http://everyayah.com/data/Alafasy_64kbps/002001.mp3,Mishary Alafasy,5.32,mp3,64,True,True,97,"Clear pronunciation",value1,value2
+2,2,http://everyayah.com/data/Alafasy_64kbps/002002.mp3,Mishary Alafasy,8.45,mp3,64,True,True,96,"Steady rhythm",value1,value2
+2,3,http://everyayah.com/data/Alafasy_64kbps/002003.mp3,Mishary Alafasy,7.21,mp3,64,True,True,98,"Perfect makharij",value1,value2
